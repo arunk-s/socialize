@@ -1,0 +1,6 @@
+#backup Files
+*~
+
+#Output files
+*.o
+*.out
